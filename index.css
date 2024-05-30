@@ -10,5 +10,16 @@ i{
 }
 .headings{
     display: grid;
-    grid-template-rows: 0.5fr 1fr 1fr 1fr;
+    grid-template-rows: 2.5fr 3.5fr 2.5fr 5fr;
+}
+.color{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: red;
+}
+.forgrid{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
 }
