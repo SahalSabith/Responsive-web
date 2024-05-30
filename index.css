@@ -1,0 +1,14 @@
+p{
+    margin-bottom: 0;
+    font-size: 13px;
+}
+i{
+    font-size: 13px;
+}
+.container-fluid{
+    --bs-gutter-x: 0;
+}
+.headings{
+    display: grid;
+    grid-template-rows: 0.5fr 1fr 1fr 1fr;
+}
